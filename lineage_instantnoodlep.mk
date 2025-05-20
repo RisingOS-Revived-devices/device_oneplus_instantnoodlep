@@ -27,6 +27,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_ENABLE_BLUR := true
 TARGET_HAS_UDFPS := true
 
+PRODUCT_NO_CAMERA := false
+
 PRODUCT_NAME := lineage_instantnoodlep
 PRODUCT_DEVICE := instantnoodlep
 PRODUCT_MANUFACTURER := OnePlus
